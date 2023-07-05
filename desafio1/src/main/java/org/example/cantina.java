@@ -27,7 +27,7 @@ public class cantina {
             System.out.printf("SÉRIO??? NADA???");
         }
         else if(resp1 == 2 && resp2 == 2){
-            System.out.printf("Que bom! Agora bora jogar ProSeka");
+            System.out.printf("Que bom! Agora bora jogar ProSeka  ");
         }
     };
 }
