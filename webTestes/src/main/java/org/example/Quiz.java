@@ -49,7 +49,7 @@ public class Quiz {
         System.out.println("Quais os meus passatempos?\n\n" +
                 "a- Planejar minha dominação mundial, jogar ProSeka\n" +
                 "b- Coletar mangás, jogar ProSeka, ouvir música\n" +
-                "c- Fotossíntese (me entrego à Terra e deixo ela e o sol me consumirem)\n\n" +
+                "c- Fotossíntese (me entrego à Terra e deixo ela e o sol me consumirem), jogar ProSeka\n\n" +
                 "Resposta: ");
 
         resposta = scan.nextLine();
