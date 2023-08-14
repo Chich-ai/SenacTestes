@@ -30,6 +30,7 @@ public class Menu {
                 "my hate is growing deep");
         System.out.println("Uh, bu-bu-buggy, bug, buggy, buggy\n" +
                 "That answer came off so weak, \n" +
-                "my hate is growing deep...");
+                "my hate is growing deep... \n" +
+                "My hate is growing deep!");
     }
 }
